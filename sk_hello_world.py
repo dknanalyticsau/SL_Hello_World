@@ -6,6 +6,7 @@ streamlit.title('hello world')
 
 streamlit.header('header')
 streamlit.text('text')
+streamlit.text('This is amn update')
 
 products_list = [['laptop',1300],['printer',150],['tablet',300],['desk',450],['chair',200]]
 
